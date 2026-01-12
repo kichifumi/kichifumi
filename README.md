@@ -89,6 +89,14 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 ---
 
+### 某家電メーカー｜IoT調理器具アプリ
+
+`Backend` `Java`
+
+- 全自動調理器具のクラウド連携バックエンド開発。ハードウェアと連動した複雑な制御ロジックの実装。
+
+---
+
 ### 国内大手自動車メーカー｜Frontend Tech Lead
 
 `JavaScript` `Architecture`
@@ -131,19 +139,11 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 ---
 
-### 飲料メーカー（サッポロビール等）｜SFAアプリ開発
+### 飲料メーカー｜SFAアプリ開発
 
 `JavaScript`
 
 - 全国規模の営業担当者が利用するリアルタイム営業報告システム（SFA）のモバイル・バックエンド開発。
-
----
-
-### 某家電メーカー｜IoT調理器具アプリ
-
-`Backend` `Java`
-
-- 全自動調理器具のクラウド連携バックエンド開発。ハードウェアと連動した複雑な制御ロジックの実装。
 
 ---
 
