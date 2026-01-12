@@ -1,8 +1,18 @@
 # kichifumi
 
-## Full-stack Engineer & Tech Lead
+<p align="center">
+  <a href="https://github.com/kichifumi">
+    <img src="https://github.com/kichifumi.png" width="150" style="border-radius: 50%;" />
+  </a>
+</p>
 
-エンジニア歴12年。官公庁の大規模システム開発（5年）を礎とし、現在は金融、自動車、家電IoT、エネルギー、AIなど多岐にわたるドメインで活動中。
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,go,python,react,nextjs,vue,nuxtjs" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,fastapi,docker,kubernetes,terraform,aws,azure,gcp,firebase" height="40" />
+</p>
+
+Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官公庁の大規模システム開発（5年）を礎とし、現在は金融、自動車、家電IoT、エネルギー、AIなど多岐にわたるドメインで活動中。
 フロントエンド（Next.js ⭐5）からインフラ（k8s/IaC）までを一気通貫で担当。現在は認証基盤のアーキテクトとして、セキュリティと利便性を両立するシステム設計を主導しています。
 
 ---
@@ -17,12 +27,12 @@
 | | Kotlin / Flutter (Dart) | ⭐⭐ |
 | | PHP | ⭐ |
 | **Frontend** | React / Next.js | ⭐⭐⭐⭐ |
-| | Vue.js | ⭐⭐⭐ |
+| | Vue.js / Nuxt.js | ⭐⭐⭐ |
 | **Mobile** | React Native | ⭐⭐⭐⭐ |
 | | Android / Swift | ⭐⭐⭐ |
-| **Backend** | Gin / Air / FastAPI / Spring Boot | ⭐⭐⭐ |
+| **Backend** | Gin / Air / FastAPI / Spring Boot / Nest.js / Express | ⭐⭐⭐ |
 | **IAM / Auth** | Keycloak (SPI拡張) / OAuth 2.0 / WebAuthn / M2M | ⭐⭐⭐⭐ |
-| **Infrastructure** | Kubernetes / Helm / Terraform / Docker | ⭐⭐⭐ |
+| **Infrastructure** | Kubernetes / Helm / Terraform / Docker / CI/CD | ⭐⭐⭐ |
 | **Cloud / BaaS** | AWS / Azure / GCP / Firebase | ⭐⭐⭐ |
 
 > ⭐5: 経験豊富 / ⭐4: それなりに / ⭐3: 実務経験あり / ⭐2: 書けるが実務未経験 / ⭐1: 読める
@@ -35,11 +45,12 @@
 
 `Keycloak` `Next.js` `Java` `TypeScript` `Kubernetes` `Azure` `Claude Code`
 
-- AI開発ツール（Claude Code等）を活用した効率的な開発プロセスを確立。
 - AWS Cognito から Keycloak への認証基盤フルリプレイスを完遂。
+- **40+のAPIエンドポイント**を持つ認証基盤を設計・実装（認証・認可・デバイス管理・運用APIを含む）。
+- **RFC準拠**の認証機能を実装（RFC 8628 デバイス認証 / RFC 6238 OTP / WebAuthn）。
 - **Java SPIによる独自拡張**（WebAuthn / OTP / M2M認証 / デバイス管理フロー）を実装。
-- RFC 8628準拠のデバイス認証、管理者承認ワークフロー、トークンブラックリストなど**30+のAPIエンドポイント**を構築。
-- 設計・実装・k8sインフラ構築・SNS認証（ID連携）基盤構築までを単独でリード。
+- 設計・実装・k8sインフラ構築・SNS認証（ID連携）基盤構築までを**単独でリード**。
+- AI開発ツール（Claude Code等）を活用した効率的な開発プロセスを確立。
 
 ---
 
@@ -152,6 +163,22 @@
 | **GForm to Slides** | アンケート結果をAI分析してMarpスライドに自動変換 | Gemini API / Marp / Python |
 | **YouTube Music Analyzer** | 楽曲解析によりギターコード進行を自動出力するAIツール | AI / Audio Processing |
 | **HealthStep** | HealthKit連携の歩数記録アプリ（チーム機能・ランキング付き） | SwiftUI / Firebase / HealthKit |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kichifumi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kichifumi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Hobbies
+
+- ギター 🎸（YouTube Music Analyzerの開発動機）
+- 銭湯 ♨️
 
 ---
 
