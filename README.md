@@ -31,8 +31,19 @@
 ### 認証基盤アーキテクト（現職）
 `Keycloak` `Next.js` `Java` `TypeScript` `Kubernetes` `Azure`
 - AWS Cognito から Keycloak への認証基盤フルリプレイスを完遂。
-- **Java SPIによる独自拡張**（WebAuthn / M2M認証 / デバイス管理フロー）を実装。
+- **Java SPIによる独自拡張**（WebAuthn / OTP / M2M認証 / デバイス管理フロー）を実装。
+- RFC 8628準拠のデバイス認証、管理者承認ワークフロー、トークンブラックリストなど**30+のAPIエンドポイント**を構築。
 - 設計・実装・k8sインフラ構築・SNS認証（ID連携）基盤構築までを単独でリード。
+
+---
+
+### 管理者向けダッシュボード（現職）
+
+`Next.js` `TypeScript` `Refine` `MUI` `PostgreSQL`
+
+- エージェント・MCP・ツール設定を管理する管理者向けダッシュボードをほぼ単独で構築。
+- ユーザー管理、アクセスログ、監査ログ、ガードレール設定など多機能な管理画面を実装。
+- Refine + MUIによるモダンなUIと、ライト/ダークモード対応。
 
 ---
 
@@ -94,7 +105,9 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **GeminiAgent** | 自己改善型の自律マルチエージェントフレームワーク | Gemini API / Python |
+| **GForm to Slides** | アンケート結果をAI分析してMarpスライドに自動変換 | Gemini API / Marp / Python |
 | **YouTube Music Analyzer** | 楽曲解析によりギターコード進行を自動出力するAIツール | AI / Audio Processing |
+| **HealthStep** | HealthKit連携の歩数記録アプリ（チーム機能・ランキング付き） | SwiftUI / Firebase / HealthKit |
 
 ---
 
