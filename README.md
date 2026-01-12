@@ -48,7 +48,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 - AWS Cognito から Keycloak への認証基盤フルリプレイスを完遂。
 - **40+のAPIエンドポイント**を持つ認証基盤を設計・実装（認証・認可・デバイス管理・運用APIを含む）。
 - **RFC準拠**の認証機能を実装（RFC 8628 デバイス認証 / RFC 6238 OTP / WebAuthn）。
-- **Java SPIによる独自拡張**（WebAuthn / OTP / M2M認証 / デバイス管理フロー）を実装。
+- **KeyCloak Java SPIによる独自拡張**（WebAuthn / OTP / M2M認証 / デバイス管理フロー）を実装。
 - 設計・実装・k8sインフラ構築・SNS認証（ID連携）基盤構築までを**単独でリード**。
 - AI開発ツール（Claude Code等）を活用した効率的な開発プロセスを確立。
 
