@@ -11,18 +11,21 @@
 
 | Category | Technology | Level |
 | :--- | :--- | :---: |
-| **Languages** | TypeScript / JavaScript | ⭐⭐⭐⭐⭐ |
-| | Java / Go | ⭐⭐⭐⭐ |
-| | Swift / Python / VB.NET | ⭐⭐⭐ |
-| **Frontend** | Next.js / React | ⭐⭐⭐⭐⭐ |
+| **Languages** | JavaScript | ⭐⭐⭐⭐⭐ |
+| | Java / Go / TypeScript | ⭐⭐⭐⭐ |
+| | Python / VB.NET / Swift | ⭐⭐⭐ |
+| | Kotlin / Flutter (Dart) | ⭐⭐ |
+| | PHP | ⭐ |
+| **Frontend** | React / Next.js | ⭐⭐⭐⭐ |
+| | Vue.js | ⭐⭐⭐ |
 | **Mobile** | React Native | ⭐⭐⭐⭐ |
-| | Android (Java/Kotlin) / Swift | ⭐⭐⭐ |
-| **Backend** | Next.js API Routes / Gin / FastAPI / Spring Boot | ⭐⭐⭐⭐ |
+| | Android / Swift | ⭐⭐⭐ |
+| **Backend** | Gin / Air / FastAPI / Spring Boot | ⭐⭐⭐ |
 | **IAM / Auth** | Keycloak (SPI拡張) / OAuth 2.0 / WebAuthn / M2M | ⭐⭐⭐⭐ |
 | **Infrastructure** | Kubernetes / Helm / Terraform / Docker | ⭐⭐⭐ |
 | **Cloud / BaaS** | AWS / Azure / GCP / Firebase | ⭐⭐⭐ |
 
-> ⭐5: 技術選定・リード可能 / ⭐4: 設計・応用実装可能 / ⭐3: 基本的な開発可能
+> ⭐5: 自信あり / ⭐4: それなりに / ⭐3: 実務経験あり / ⭐2: 書けるが実務未経験 / ⭐1: 読める
 
 ---
 
