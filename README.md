@@ -33,8 +33,9 @@
 
 ### 認証基盤アーキテクト（現職）
 
-`Keycloak` `Next.js` `Java` `TypeScript` `Kubernetes` `Azure`
+`Keycloak` `Next.js` `Java` `TypeScript` `Kubernetes` `Azure` `Claude Code`
 
+- AI開発ツール（Claude Code等）を活用した効率的な開発プロセスを確立。
 - AWS Cognito から Keycloak への認証基盤フルリプレイスを完遂。
 - **Java SPIによる独自拡張**（WebAuthn / OTP / M2M認証 / デバイス管理フロー）を実装。
 - RFC 8628準拠のデバイス認証、管理者承認ワークフロー、トークンブラックリストなど**30+のAPIエンドポイント**を構築。
@@ -44,9 +45,9 @@
 
 ### 管理者向けダッシュボード（現職）
 
-`Next.js` `TypeScript` `Refine` `MUI` `PostgreSQL`
+`Next.js` `TypeScript` `Refine` `MUI` `PostgreSQL` `Claude Code`
 
-- エージェント・MCP・ツール設定を管理する管理者向けダッシュボードをほぼ単独で構築。
+- AI開発ツール（Claude Code等）を活用し、管理者向けダッシュボードをほぼ単独で爆速構築。
 - ユーザー管理、アクセスログ、監査ログ、ガードレール設定など多機能な管理画面を実装。
 - Refine + MUIによるモダンなUIと、ライト/ダークモード対応。
 
