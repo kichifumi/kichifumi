@@ -26,7 +26,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 | | Python / VB.NET / Swift | ⭐⭐⭐ |
 | | Kotlin / Flutter (Dart) | ⭐⭐ |
 | | PHP | ⭐ |
-| **Frontend** | React / Next.js | ⭐⭐⭐⭐ |
+| **Frontend** | React / Next.js | ⭐⭐⭐⭐⭐ |
 | | Vue.js / Nuxt.js | ⭐⭐⭐ |
 | **Mobile** | React Native | ⭐⭐⭐⭐ |
 | | Android / Swift | ⭐⭐⭐ |
