@@ -12,8 +12,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,fastapi,docker,kubernetes,terraform,aws,azure,gcp,firebase" height="40" />
 </p>
 
-Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官公庁の大規模システム開発（5年）を礎とし、現在は金融、自動車、家電IoT、エネルギー、AIなど多岐にわたるドメインで活動中。
-フロントエンド（Next.js ⭐5）からインフラ（k8s/IaC）までを一気通貫で担当。現在は認証基盤のアーキテクトとして、セキュリティと利便性を両立するシステム設計を主導しています。
+認証・IAM領域を中心に、  
+**設計・実装・運用まで一気通貫で支援できる  
+フルスタック / 認証基盤アーキテクト & Tech Lead** です。
+
+エンジニア歴12年。官公庁の大規模システム開発（5年）を礎とし、  
+現在は金融、自動車、家電IoT、エネルギー、AIなど多岐にわたるドメインで活動中。  
+フロントエンド（Next.js ⭐5）からインフラ（k8s / IaC）まで一気通貫で担当しています。
 
 ---
 
@@ -31,7 +36,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 | **Mobile** | React Native | ⭐⭐⭐⭐ |
 | | Android / Swift | ⭐⭐⭐ |
 | **Backend** | Gin / Air / FastAPI / Spring Boot / Nest.js / Express | ⭐⭐⭐ |
-| **IAM / Auth** | Keycloak (SPI拡張) / OAuth 2.0 / WebAuthn / M2M | ⭐⭐⭐⭐ |
+| **IAM / Auth** | Keycloak (SPI拡張) / OAuth 2.0 / WebAuthn / M2M | ⭐⭐⭐⭐⭐ |
 | **Infrastructure** | Kubernetes / Helm / Terraform / Docker / CI/CD | ⭐⭐⭐ |
 | **Cloud / BaaS** | AWS / Azure / GCP / Firebase | ⭐⭐⭐ |
 
@@ -45,12 +50,16 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Keycloak` `Next.js` `Java` `TypeScript` `Kubernetes` `Azure` `Claude Code`
 
-- AWS Cognito から Keycloak への認証基盤フルリプレイスを完遂。
-- **40+のAPIエンドポイント**を持つ認証基盤を設計・実装（認証・認可・デバイス管理・運用APIを含む）。
-- **RFC準拠**の認証機能を実装（RFC 8628 デバイス認証 / RFC 6238 OTP / WebAuthn）。
-- **KeyCloak Java SPIによる独自拡張**（WebAuthn / OTP / M2M認証 / デバイス管理フロー）を実装。
-- 設計・実装・k8sインフラ構築・SNS認証（ID連携）基盤構築までを**単独でリード**。
-- AI開発ツール（Claude Code等）を活用した効率的な開発プロセスを確立。
+- AWS Cognito から Keycloak への **認証基盤フルリプレイスを単独で完遂**
+- 認証・認可・デバイス管理・運用を含む **60+ APIエンドポイント** を設計・実装
+- **RFC準拠の認証機能** を実装  
+  （RFC 8628 デバイス認証 / RFC 6238 OTP / WebAuthn）
+- **Keycloak Java SPI による独自拡張** を実装  
+  （WebAuthn / OTP / M2M認証 / デバイス管理フロー）
+- API設計、ドメイン設計、例外設計、認可モデル設計までを一貫して担当
+- Kubernetes 上での運用を前提とした **スケーラブルな認証基盤アーキテクチャ** を構築
+- AI開発ツール（Claude Code 等）を活用し、  
+  **設計 → 実装 → レビューを高速に回す開発プロセスを確立**
 
 ---
 
@@ -58,9 +67,9 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Next.js` `TypeScript` `Refine` `MUI` `PostgreSQL` `Claude Code`
 
-- AI開発ツール（Claude Code等）を活用し、管理者向けダッシュボードをほぼ単独で爆速構築。
-- ユーザー管理、アクセスログ、監査ログ、ガードレール設定など多機能な管理画面を実装。
-- Refine + MUIによるモダンなUIと、ライト/ダークモード対応。
+- 認証基盤と **密結合しない形で設計** した管理者向けダッシュボードをほぼ単独で構築
+- ユーザー管理、アクセスログ、監査ログ、ガードレール設定など多機能な管理画面を実装
+- Refine + MUI によるモダンな UI とライト / ダークモード対応
 
 ---
 
@@ -68,7 +77,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Backend` `Frontend` `Java` `JavaScript`
 
-- 防災情報の配信基盤およびネイティブアプリ・Webアプリ開発に従事。
+- 防災情報の配信基盤およびネイティブアプリ・Webアプリ開発に従事
 
 ---
 
@@ -76,7 +85,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Backend` `Frontend` `Java` `JavaScript`
 
-- 量子計算リソースに関連するポータルサイトのバックエンド開発。
+- 量子計算リソースに関連するポータルサイトのバックエンド開発
 
 ---
 
@@ -84,8 +93,8 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Go` `Architecture` `Healthcare`
 
-- バックエンドのテックリードとして、疎結合で堅牢なマイクロサービスアーキテクチャを設計。
-- 地方インフラ企業のDX推進を技術側面から牽引。
+- バックエンドのテックリードとして、疎結合で堅牢なマイクロサービスアーキテクチャを設計
+- 地方インフラ企業のDX推進を技術側面から牽引
 
 ---
 
@@ -93,7 +102,8 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Backend` `Java`
 
-- 全自動調理器具のクラウド連携バックエンド開発。ハードウェアと連動した複雑な制御ロジックの実装。
+- 全自動調理器具のクラウド連携バックエンド開発
+- ハードウェアと連動した複雑な制御ロジックの実装
 
 ---
 
@@ -101,8 +111,8 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `JavaScript` `Architecture`
 
-- フロントエンド領域のテックリードとして技術選定・アーキテクチャ設計を主導。
-- 開発プロセスの改善（CI/CD、レビューフローの最適化）によりチーム生産性を向上。
+- フロントエンド領域のテックリードとして技術選定・アーキテクチャ設計を主導
+- CI/CD・レビューフロー改善によりチーム生産性を向上
 
 ---
 
@@ -110,7 +120,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Go` `GCP` `Microservices`
 
-- 基幹システムの機能追加および改修。高信頼性が求められる金融ドメインでの堅実な設計・実装。
+- 高信頼性が求められる金融ドメインでの基幹システム開発
 
 ---
 
@@ -118,7 +128,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Go` `GCP` `High-traffic`
 
-- 瞬間的な高負荷（スパイクトラフィック）に耐えうるバックエンドの設計およびパフォーマンスチューニング。
+- スパイクトラフィックに耐えるバックエンド設計・パフォーマンスチューニング
 
 ---
 
@@ -126,7 +136,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `React Native`
 
-- 地域に特化したマッチングプラットフォームのフロントエンド開発を担当。
+- 地域特化型マッチングプラットフォームのフロントエンド開発
 
 ---
 
@@ -134,8 +144,8 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `JavaScript` `Security`
 
-- 銀行水準のセキュアなモバイルアプリ開発。
-- 基盤共通化の設計により、**国内約9行への効率的なマルチブランド展開**を実現。
+- 銀行水準のセキュアなモバイルアプリ開発
+- 国内約9行へのマルチブランド展開を実現
 
 ---
 
@@ -143,7 +153,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `JavaScript`
 
-- 全国規模の営業担当者が利用するリアルタイム営業報告システム（SFA）のモバイル・バックエンド開発。
+- 全国規模で利用されるSFAのモバイル・バックエンド開発
 
 ---
 
@@ -151,7 +161,7 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 
 `Java` `VB.NET` `Oracle`
 
-- ミッションクリティカルな大規模システムの設計・開発・保守を担当。
+- ミッションクリティカルな大規模システムの設計・開発・保守
 
 ---
 
@@ -161,23 +171,14 @@ Full-stack Engineer & IAM Architect & Tech Lead。エンジニア歴12年。官�
 | :--- | :--- | :--- |
 | **GeminiAgent** | 自己改善型の自律マルチエージェントフレームワーク | Gemini API / Python |
 | **GForm to Slides** | アンケート結果をAI分析してMarpスライドに自動変換 | Gemini API / Marp / Python |
-| **YouTube Music Analyzer** | 楽曲解析によりギターコード進行を自動出力するAIツール | AI / Audio Processing |
-| **HealthStep** | HealthKit連携の歩数記録アプリ（チーム機能・ランキング付き） | SwiftUI / Firebase / HealthKit |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kichifumi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kichifumi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| **YouTube Music Analyzer** | 楽曲解析によるギターコード進行自動生成 | AI / Audio Processing |
+| **HealthStep** | 歩数記録・チーム機能付きヘルスケアアプリ | SwiftUI / Firebase / HealthKit |
 
 ---
 
 ## Hobbies
 
-- ギター 🎸（YouTube Music Analyzerの開発動機）
+- ギター 🎸
 - 銭湯 ♨️
 
 ---
